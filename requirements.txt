@@ -1,0 +1,5 @@
+django
+djangorestframework
+psycopg
+django-stubs
+Pillow
